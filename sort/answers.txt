@@ -1,0 +1,14 @@
+sort1 uses: bubble sort
+
+How do you know?: Best-case for bubble sort is sorted: real    0m1.045s.
+worst-case is reversal :reversed real    0m6.054s
+
+sort2 uses: merge sort
+
+How do you know?: Best and worse cases are aproximately the same:
+randome real    0m1.024s;    sorted real    0m1.010s;    reversed real    0m0.722s;
+
+sort3 uses: selection sort
+
+How do you know?: Because its quite slow and dont save runtime with sorted array.
+randome real    0m3.768s;   sorted real    0m3.893s;    reversed real    0m4.218s;

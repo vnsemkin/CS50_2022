@@ -1,0 +1,9 @@
+Ask the person set height of pyramid
+If piramid height is less than 1 or more than 8
+go to step 1( use do while)
+Else set height as input
+iterate columns from 1 to input plus 1 to avoid empty column
+    add new nested loop to print spaces
+    print out result
+    add new nested loop for print hashes
+    print out result

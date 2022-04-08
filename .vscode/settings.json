@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.html": "jinja-html",
+        "sstream": "c",
+        "ctype.h": "c"
+    }
+}

@@ -1,0 +1,319 @@
+div#atcm_structure {
+    width: 533px;
+    height: 834px;
+    margin-top: 20px;
+    padding: 0;
+    overflow: hidden;
+    background: url(images/bg_scheme.gif) left top no-repeat;
+}
+div#atcm_structure div {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+}
+div#atcm_structure a {
+    display: block;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    font-size: 1px;
+}
+
+/* air traffic control */
+
+div#atcm_structure #atcm_traffic a {
+    width: 117px;
+    height: 35px;
+}
+div#atcm_structure #atcm_traffic .centered a {
+    width: 259px;
+    height: 35px;
+}
+
+a#traffic_centered_01 {
+    left: 138px;
+    top: 127px;
+    background: url(images/structure/traffic/center_01.gif) left top no-repeat;
+}
+a#traffic_centered_01:hover {
+    background: url(images/structure/traffic/center_01_hover.gif) left top no-repeat;
+}
+
+a#traffic_centered_02 {
+    left: 138px;
+    top: 167px;
+    background: url(images/structure/traffic/center_02.gif) left top no-repeat;
+}
+a#traffic_centered_02:hover {
+    background: url(images/structure/traffic/center_02_hover.gif) left top no-repeat;
+}
+
+a#traffic_centered_03 {
+    left: 138px;
+    top: 207px;
+    background: url(images/structure/traffic/center_03.gif) left top no-repeat;
+}
+a#traffic_centered_03:hover {
+    background: url(images/structure/traffic/center_03_hover.gif) left top no-repeat;
+}
+
+a#traffic_01 {
+    left: 0px;
+    top: 67px;
+    background: url(images/structure/traffic/traffic_01.gif) left top no-repeat;
+}
+a#traffic_01:hover {
+    background: url(images/structure/traffic/traffic_01_hover.gif) left top no-repeat;
+}
+
+a#traffic_02 {
+    left: 209px;
+    top: 67px;
+    background: url(images/structure/traffic/traffic_02.gif) left top no-repeat;
+}
+a#traffic_02:hover {
+    background: url(images/structure/traffic/traffic_02_hover.gif) left top no-repeat;
+}
+
+a#traffic_03 {
+    left: 416px;
+    top: 67px;
+    background: url(images/structure/traffic/traffic_03.gif) left top no-repeat;
+}
+a#traffic_03:hover {
+    background: url(images/structure/traffic/traffic_03_hover.gif) left top no-repeat;
+}
+
+a#traffic_04 {
+    left: 416px;
+    top: 131px;
+    background: url(images/structure/traffic/traffic_02.gif) left top no-repeat;
+}
+a#traffic_04:hover {
+    background: url(images/structure/traffic/traffic_02_hover.gif) left top no-repeat;
+}
+
+a#traffic_05 {
+    left: 416px;
+    top: 201px;
+    background: url(images/structure/traffic/traffic_05.gif) left top no-repeat;
+}
+a#traffic_05:hover {
+    background: url(images/structure/traffic/traffic_05_hover.gif) left top no-repeat;
+}
+
+a#traffic_06 {
+    left: 416px;
+    top: 267px;
+    background: url(images/structure/traffic/traffic_06.gif) left top no-repeat;
+}
+a#traffic_06:hover {
+    background: url(images/structure/traffic/traffic_06_hover.gif) left top no-repeat;
+}
+
+a#traffic_07 {
+    left: 209px;
+    top: 267px;
+    background: url(images/structure/traffic/traffic_07.gif) left top no-repeat;
+}
+a#traffic_07:hover {
+    background: url(images/structure/traffic/traffic_07_hover.gif) left top no-repeat;
+}
+
+a#traffic_08 {
+    left: 0px;
+    top: 267px;
+    background: url(images/structure/traffic/traffic_08.gif) left top no-repeat;
+}
+a#traffic_08:hover {
+    background: url(images/structure/traffic/traffic_08_hover.gif) left top no-repeat;
+}
+
+a#traffic_09 {
+    left: 0px;
+    top: 201px;
+    background: url(images/structure/traffic/traffic_09.gif) left top no-repeat;
+}
+a#traffic_09:hover {
+    background: url(images/structure/traffic/traffic_09_hover.gif) left top no-repeat;
+}
+
+a#traffic_10 {
+    left: 0px;
+    top: 131px;
+    background: url(images/structure/traffic/traffic_10.gif) left top no-repeat;
+}
+a#traffic_10:hover {
+    background: url(images/structure/traffic/traffic_10_hover.gif) left top no-repeat;
+}
+
+/* radio control */
+
+div#atcm_structure #atcm_radio a {
+    width: 117px;
+    height: 76px;
+}
+div#atcm_structure #atcm_radio .centered a {
+    width: 199px;
+    height: 35px;
+}
+
+a#radio_centered_01 {
+    left: 168px;
+    top: 534px;
+    background: url(images/structure/radio/center_01.gif) left top no-repeat;
+}
+a#radio_centered_01:hover {
+    background: url(images/structure/radio/center_01_hover.gif) left top no-repeat;
+}
+
+a#radio_01 {
+    left: 0px;
+    top: 515px;
+    background: url(images/structure/radio/radio_01.gif) left top no-repeat;
+}
+a#radio_01:hover {
+    background: url(images/structure/radio/radio_01_hover.gif) left top no-repeat;
+}
+
+a#radio_02 {
+    left: 0px;
+    top: 418px;
+    background: url(images/structure/radio/radio_02.gif) left top no-repeat;
+}
+a#radio_02:hover {
+    background: url(images/structure/radio/radio_02_hover.gif) left top no-repeat;
+}
+
+a#radio_03 {
+    left: 209px;
+    top: 418px;
+    background: url(images/structure/radio/radio_03.gif) left top no-repeat;
+}
+a#radio_03:hover {
+    background: url(images/structure/radio/radio_03_hover.gif) left top no-repeat;
+}
+
+a#radio_04 {
+    left: 416px;
+    top: 418px;
+    background: url(images/structure/radio/radio_04.gif) left top no-repeat;
+}
+a#radio_04:hover {
+    background: url(images/structure/radio/radio_04_hover.gif) left top no-repeat;
+}
+
+a#radio_05 {
+    left: 416px;
+    top: 515px;
+    background: url(images/structure/radio/radio_05.gif) left top no-repeat;
+}
+a#radio_05:hover {
+    background: url(images/structure/radio/radio_05_hover.gif) left top no-repeat;
+}
+
+a#radio_06 {
+    left: 209px;
+    top: 610px;
+    background: url(images/structure/radio/radio_06.gif) left top no-repeat;
+}
+a#radio_06:hover {
+    background: url(images/structure/radio/radio_06_hover.gif) left top no-repeat;
+}
+
+/* outposts */
+
+div#atcm_structure #atcm_outposts a {
+    width: 76px;
+    height: 35px;
+}
+
+a#outpost_01 {
+    left: 27px;
+    top: 754px;
+    background: url(images/structure/outpost/outpost_01.gif) left top no-repeat;
+}
+a#outpost_01:hover {
+    background: url(images/structure/outpost/outpost_01_hover.gif) left top no-repeat;
+}
+
+a#outpost_02 {
+    left: 27px;
+    top: 711px;
+    background: url(images/structure/outpost/outpost_02.gif) left top no-repeat;
+}
+a#outpost_02:hover {
+    background: url(images/structure/outpost/outpost_02_hover.gif) left top no-repeat;
+}
+
+a#outpost_03 {
+    left: 27px;
+    top: 667px;
+    background: url(images/structure/outpost/outpost_03.gif) left top no-repeat;
+}
+a#outpost_03:hover {
+    background: url(images/structure/outpost/outpost_03_hover.gif) left top no-repeat;
+}
+
+a#outpost_04 {
+    left: 95px;
+    top: 801px;
+    background: url(images/structure/outpost/outpost_04.gif) left top no-repeat;
+}
+a#outpost_04:hover {
+    background: url(images/structure/outpost/outpost_04_hover.gif) left top no-repeat;
+}
+
+a#outpost_05 {
+    left: 185px;
+    top: 801px;
+    background: url(images/structure/outpost/outpost_05.gif) left top no-repeat;
+}
+a#outpost_05:hover {
+    background: url(images/structure/outpost/outpost_05_hover.gif) left top no-repeat;
+}
+
+a#outpost_06 {
+    left: 276px;
+    top: 801px;
+    background: url(images/structure/outpost/outpost_06.gif) left top no-repeat;
+}
+a#outpost_06:hover {
+    background: url(images/structure/outpost/outpost_06_hover.gif) left top no-repeat;
+}
+
+a#outpost_07 {
+    left: 366px;
+    top: 801px;
+    background: url(images/structure/outpost/outpost_07.gif) left top no-repeat;
+}
+a#outpost_07:hover {
+    background: url(images/structure/outpost/outpost_07_hover.gif) left top no-repeat;
+}
+
+a#outpost_08 {
+    left: 432px;
+    top: 667px;
+    background: url(images/structure/outpost/outpost_08.gif) left top no-repeat;
+}
+a#outpost_08:hover {
+    background: url(images/structure/outpost/outpost_08_hover.gif) left top no-repeat;
+}
+
+a#outpost_09 {
+    left: 432px;
+    top: 711px;
+    background: url(images/structure/outpost/outpost_09.gif) left top no-repeat;
+}
+a#outpost_09:hover {
+    background: url(images/structure/outpost/outpost_09_hover.gif) left top no-repeat;
+}
+
+a#outpost_10 {
+    left: 432px;
+    top: 754px;
+    background: url(images/structure/outpost/outpost_10.gif) left top no-repeat;
+}
+a#outpost_10:hover {
+    background: url(images/structure/outpost/outpost_10_hover.gif) left top no-repeat;
+}

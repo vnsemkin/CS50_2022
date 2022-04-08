@@ -1,0 +1,80 @@
+.nav {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.nav-item {
+    margin-left: 2px;
+    margin-top: 2px;
+}
+.h1 {
+    z-index: 1;
+    margin-top: 90px;
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    width: 100%;
+    text-align: left;
+    color: white;
+    text-decoration-line: underline;
+    text-shadow: 1px 0 1px #000,
+    0 1px 1px #000,
+   -1px 0 1px #000,
+    0 -1px 1px #000,
+    5px 5px 10px blue;
+}
+.h2 {
+    z-index: 1;
+    margin-top: 100px;
+    position: absolute;
+    top: 85px;
+    left: 10px;
+    width: 100%;
+    text-align: left;
+    color: white;
+    text-decoration-line: underline;
+    text-shadow: 1px 0 1px #000,
+    0 1px 1px #000,
+   -1px 0 1px #000,
+    0 -1px 1px #000,
+    5px 5px 10px blue;
+
+}
+.edu {
+    z-index: 1;
+    position: static;
+    top: 1px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    text-decoration-line: underline;
+    text-shadow: 1px 0 1px #000,
+    0 1px 1px #000,
+   -1px 0 1px #000,
+    0 -1px 1px #000,
+    5px 5px 10px blue;
+}
+.edu_tab {
+    color: white;
+    text-align: center;
+    text-decoration-line: underline;
+    text-shadow: 1px 0 1px #000,
+    0 1px 1px #000,
+   -1px 0 1px #000,
+    0 -1px 1px #000,
+    5px 5px 10px blue;
+}
+.text {
+    text-align: center;
+    text-decoration: underline;
+}
+.image-fluid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.one {
+    text-align: center;
+}
